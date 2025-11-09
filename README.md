@@ -1,7 +1,7 @@
 # Stock News Sentiment & Summarization
 
 ## 1. Description
-This project develops an AI-driven system for a (hypothetical) investment startup to analyze daily stock news. It consists of two main components:
+This project was part of my UT Austin PostGrad Program in Artificial Intelligence and Machine Learning. It develops an AI-driven system for a (hypothetical) investment startup to analyze daily stock news. It consists of two main components:
 1.  **Sentiment Classifier:** A machine learning model that analyzes news articles to gauge market sentiment (Positive, Neutral, Negative).
 2.  **Weekly Summarizer:** A large language model (LLM) that processes a week's worth of news and generates a summary of the top positive and negative events.
 
